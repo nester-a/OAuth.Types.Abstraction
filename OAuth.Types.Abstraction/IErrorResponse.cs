@@ -1,6 +1,6 @@
 ﻿namespace OAuth.Types.Abstraction
 {
-    internal interface IErrorResponse
+    public interface IErrorResponse
     {
         string Error { get; }
 
