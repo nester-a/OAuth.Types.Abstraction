@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
 	  <Nullable>enable</Nullable>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>OAuth 2.0 protocol types abstraction</Title>
+	  <Authors>Aleksey_N</Authors>
+	  <RepositoryUrl>https://github.com/nester-a/OAuth.Types.Abstraction</RepositoryUrl>
+	  <PackageTags>oauth; request; response; error</PackageTags>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
